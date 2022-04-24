@@ -86,15 +86,32 @@ body {
   /* margin-top: 20px; */
 }
 
-svg {
-  margin: 0 15px;
-  font-size: 30px;
-  width: 36px;
+button {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  border: none;
   cursor: pointer;
+  font-size: 30px;
+  color: orangered;
+  margin: 0 15px;
+  width: 36px;
+  height: 36px;
 }
 
-#reset {
+
+#start_stop svg {
+  color: antiquewhite;
+}
+
+#reset svg {
   font-size: 36px;
+  color: antiquewhite;
 }
 
 #time-left {
