@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-frontend-challange-05_5-plus-25-clock/static/css/main.53b769a8.css",
+    "main.js": "/fcc-frontend-challange-05_5-plus-25-clock/static/js/main.6ad4d2f7.js",
+    "index.html": "/fcc-frontend-challange-05_5-plus-25-clock/index.html",
+    "main.53b769a8.css.map": "/fcc-frontend-challange-05_5-plus-25-clock/static/css/main.53b769a8.css.map",
+    "main.6ad4d2f7.js.map": "/fcc-frontend-challange-05_5-plus-25-clock/static/js/main.6ad4d2f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b769a8.css",
+    "static/js/main.6ad4d2f7.js"
+  ]
+}
